@@ -28,7 +28,7 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <li>
- <b>Name:</b> <a href='#' target=_blank>Md Jewel Talukder</a></li>
+ <b>Name:</b> <a href='#' target=_blank>Md. Mahim Hasan</a></li>
 
 <li>
 <b>Loves:</b> anime, osu, rhythm games
@@ -49,7 +49,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jewel-talukder&layout=Demo&count_private=true" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahimHasanTalukder&layout=Demo&count_private=true" align="right">
   </div>
 </div>
 <div>
@@ -77,7 +77,7 @@ I am also very good at WordPress Customization. And I am good at writing Guides 
 <p align="center">Here some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
 
-<p align="center"> <a href="https://web.facebook.com/Jewel.Talukder.1977" target="_blank"><img src="https://img.shields.io/badge/Jewel Talukder-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jewel-talukder-86b597235" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Jewel Talukder-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p align="center"> <a href="https://web.facebook.com/mahim.hasan.210234" target="_blank"><img src="https://img.shields.io/badge/Mahim Hasan-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
@@ -88,8 +88,8 @@ most used s-s-sociaw things >~< xoxox</p>
 <hr>
 </div>
     <p align="center" >  
-  <a href="https://github.com/jewel-talukder"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=jewel-talukder&&show_icons=true&theme=radical&count_private=true"/>
+  <a href="https://github.com/MahimHasanTalukder"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=MahimHasanTalukder&&show_icons=true&theme=radical&count_private=true"/>
   </a>
   </p>
     
